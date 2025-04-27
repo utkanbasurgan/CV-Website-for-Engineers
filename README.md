@@ -1,1 +1,1 @@
-CV with displaying of your projects!
+CV with displaying of your projects.
